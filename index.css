@@ -1,0 +1,180 @@
+section{
+    background-color: #FFFFFF;
+    border:solid black 1px;
+    height: 500px;
+}
+
+.hero{
+    background-color: #1c1d25;
+    height: 66vh;
+    color:white;
+   
+
+}
+
+footer{
+    height: 221px;
+    background-color:#1c1d25;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-start;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 445px;
+    justify-content: space-around;
+    padding-left: 200px;
+    margin: 0px;
+
+}
+
+li{
+    margin-top: 20px;
+    text-decoration: none;
+    padding-left: 30px;
+}
+
+h1{
+  margin: 0px;
+    font-size: 60px;
+
+
+  
+}
+h2{
+    margin: 0px;
+    font-size: 25px;;
+
+}
+
+p{
+    font-size: 22px;
+    padding-top: 25px;
+    margin-bottom: 50px;
+}
+
+.hero-text{
+    text-align: center;
+    margin-top: 200px;
+
+    
+}
+
+.sub-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 100px 0px 400px;
+    height:100vh;
+   
+    
+}
+
+
+.headshot{
+    display: flex;
+    width:350px;
+    margin: 60px 400px 300px 0px;
+    border-radius: 5px;
+    height: 50vh;
+    
+
+}
+.paraSize{
+    display: flex;
+    font-size: 18px;
+    width: 600px;
+    align-content: s;
+}
+
+.socials{
+    display: flex;
+    justify-content: end;
+   padding : 100px 75px 75px 300px;
+   justify-content:space-evenly ;
+   width: 850px;
+ 
+  
+}
+.button{
+    
+  padding: 10px ;
+  width:150px;
+  border-radius: 3px;
+ 
+
+}
+
+.quotes{
+    display:flex;
+    background-color:#1C1D25;
+    height: 18vh;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+#hori-line{
+    width: 500px;
+    height: 1px;
+    padding: 150px;
+    background-color: #1C1D25;
+
+}
+
+.awards{
+    text-align: center;
+    margin: 40px 0px 40px 0px;
+    font-size: 30px;
+
+}
+.box-part{
+    background-color:whitesmoke;
+    color: #1C1D25;
+    padding: 15px 60px 10px 15px;
+    height: 200px;
+    margin-bottom:125px ;
+    
+}
+
+.len{
+    height: 100vh;
+}
+
+h5{
+    text-align: center;
+    font-size: 30px;
+    
+}
+li{
+    margin:0px;
+    padding-left: 75px;
+}
+
+h6{
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 0px;
+
+ 
+}
+.col-md-4{
+   color: #FFFFFF;
+   margin-top: 50px;
+   
+
+}
+.paragra{
+    font-size: 15px;
+}
+
+
+
+
+
+
